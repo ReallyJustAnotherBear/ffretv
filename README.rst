@@ -6,12 +6,6 @@ These builds will have limited plugins as well with no web browser such as mythb
 
 I will reimport upstream changes as needed, with a high priority on bugs that affect this build first, with features coming later.
 
-![Alt text](master/ffrefrontend_noalpha.png?raw=true "Title")
-![Alt text](/master/ffrefrontend_noalpha.png?raw=true "Title")
-![Alt text](blob/master/ffrefrontend_noalpha.png?raw=true "Title")
-![Alt text](/blob/master/ffrefrontend_noalpha.png?raw=true "Title")
-![Alt text](ffretv/blob/master/ffrefrontend_noalpha.png?raw=true "Title")
-
-
-![ffretv](https://github.com/kelsieflynn/ffretv/blob/master/ffrefrontend_noalpha.png)
+![My image](kelsieflynn.github.com/ffretv/img/ffre)
+![ffretv](https://github.com/kelsieflynn/ffretv/blob/master/ffretv.png)
 
