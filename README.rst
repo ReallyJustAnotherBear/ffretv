@@ -7,5 +7,5 @@ These builds will have limited plugins as well with no web browser such as mythb
 I will reimport upstream changes as needed, with a high priority on bugs that affect this build first, with features coming later.
 
 
-                          ![ffretv](master/ffrefrontend_noalpha.png)
+                          ![ffretv](ffrefrontend_noalpha.png)
 
