@@ -7052,64 +7052,6 @@ Vračam se na prejšnji menu.</translation>
     </message>
 </context>
 <context>
-    <name>MythWebPage</name>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="303"/>
-        <source>Error loading page: %1</source>
-        <translation>Napaka nalaganja strani: %1</translation>
-    </message>
-</context>
-<context>
-    <name>MythWebView</name>
-    <message>
-        <source>Error loading page: %1</source>
-        <translation type="obsolete">Napaka nalaganja strani: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="541"/>
-        <source>Enter filename to save file</source>
-        <translation>Vnesite ime za shranjevanje datoteke</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="574"/>
-        <source>Downloading...</source>
-        <translation>Downloadam...</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="611"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="703"/>
-        <source>Play the file</source>
-        <translation>Predvajaj datoteko</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="634"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="708"/>
-        <source>Download the file</source>
-        <translation>Downloadaj datoteko</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="638"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="706"/>
-        <source>Download and play the file</source>
-        <translation>Downloadaj in predvajaj datoteko</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="670"/>
-        <source>ERROR downloading file.</source>
-        <translation>NAPAKA pri prenosu datoteke.</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="688"/>
-        <source>What do you want to do with this file?</source>
-        <translation>Kaj želite narediti z to datoteko?</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="709"/>
-        <source>Cancel</source>
-        <translation>Prekliči</translation>
-    </message>
-</context>
-<context>
     <name>MythWelcomeSettings</name>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="14"/>
@@ -20830,11 +20772,6 @@ Do you wish to continue watching?</source>
     <message>
         <location filename="../libs/libmythtv/videodbcheck.cpp" line="140"/>
         <source>Error: failed to hash file &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="561"/>
-        <source>Downloading file. Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

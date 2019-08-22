@@ -6969,60 +6969,6 @@ Returning to the previous menu.</source>
     </message>
 </context>
 <context>
-    <name>MythWebPage</name>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="297"/>
-        <source>Error loading page: %1</source>
-        <translation>Ошибка загрузки страницы: %1</translation>
-    </message>
-</context>
-<context>
-    <name>MythWebView</name>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="535"/>
-        <source>Enter filename to save file</source>
-        <translation>Введите имя файла для сохранения</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="568"/>
-        <source>Downloading...</source>
-        <translation>Загрузка...</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="605"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="697"/>
-        <source>Play the file</source>
-        <translation>Воспроизвести файл</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="628"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="702"/>
-        <source>Download the file</source>
-        <translation>Загрузить файл</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="632"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="700"/>
-        <source>Download and play the file</source>
-        <translation>Загрузить и воспроизвести файл</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="664"/>
-        <source>ERROR downloading file.</source>
-        <translation>ОШИБКА загрузки файла.</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="682"/>
-        <source>What do you want to do with this file?</source>
-        <translation>Что вы хотите сделать с этим файлом?</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="703"/>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
-    </message>
-</context>
-<context>
     <name>MythWelcomeSettings</name>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="14"/>
@@ -18896,11 +18842,6 @@ Do you wish to continue watching?</source>
         <location filename="../libs/libmythtv/ringbuffer.cpp" line="1353"/>
         <source>%1Hz</source>
         <translation>%1Гц</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="555"/>
-        <source>Downloading file. Please wait...</source>
-        <translation>Загрузка файла. Подождите, пожалуйста...</translation>
     </message>
     <message>
         <location filename="../programs/mythfrontend/setupwizard_general.cpp" line="133"/>

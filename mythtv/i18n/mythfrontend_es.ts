@@ -4389,64 +4389,6 @@ Volviendo al menú anterior.</translation>
     </message>
 </context>
 <context>
-    <name>MythWebPage</name>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="286"/>
-        <source>Error loading page: %1</source>
-        <translation type="unfinished">Error cargando página: %1</translation>
-    </message>
-</context>
-<context>
-    <name>MythWebView</name>
-    <message>
-        <source>Error loading page: %1</source>
-        <translation type="obsolete">Error cargando página: %1</translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="517"/>
-        <source>Enter filename to save file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="550"/>
-        <source>Downloading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="587"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="679"/>
-        <source>Play the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="610"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="684"/>
-        <source>Download the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="614"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="682"/>
-        <source>Download and play the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="646"/>
-        <source>ERROR downloading file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="664"/>
-        <source>What do you want to do with this file?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="685"/>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>MythWizard</name>
     <message>
         <location filename="../libs/libmyth/mythwizard.cpp" line="123"/>
@@ -18505,11 +18447,6 @@ Revisa la configuración del VideoManager</translation>
     <message>
         <location filename="../libs/libmythtv/ringbuffer.cpp" line="1319"/>
         <source>%1bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="537"/>
-        <source>Downloading file. Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -38,10 +38,6 @@
 #include "mythuicheckbox.h"
 #include "mythuispinbox.h"
 
-#if CONFIG_QTWEBKIT
-#include "mythuiwebbrowser.h"
-#endif
-
 #include "mythuiprogressbar.h"
 #include "mythuiscrollbar.h"
 #include "mythuieditbar.h"

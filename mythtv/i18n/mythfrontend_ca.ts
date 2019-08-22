@@ -7440,78 +7440,6 @@ Returning to the previous menu.</source>
     </message>
 </context>
 <context>
-    <name>MythUIWebBrowser</name>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="1173"/>
-        <source>Zoom: %1%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="1519"/>
-        <source>Sending key presses to web page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="1521"/>
-        <source>Sending key presses to MythTV</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MythWebPage</name>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="312"/>
-        <source>Error loading page: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MythWebView</name>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="544"/>
-        <source>Enter filename to save file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="577"/>
-        <source>Downloading...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="614"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="706"/>
-        <source>Play the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="637"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="711"/>
-        <source>Download the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="641"/>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="709"/>
-        <source>Download and play the file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="673"/>
-        <source>ERROR downloading file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="691"/>
-        <source>What do you want to do with this file?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="712"/>
-        <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
-    </message>
-</context>
-<context>
     <name>MythWelcomeSettings</name>
     <message>
         <location filename="../programs/mythwelcome/welcomesettings.cpp" line="14"/>
@@ -17944,11 +17872,6 @@ Your grabber does not provide channel numbers, so you have to set them manually.
     <message>
         <location filename="../libs/libmythtv/ringbuffer.cpp" line="1353"/>
         <source>%1bps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../libs/libmythui/mythuiwebbrowser.cpp" line="564"/>
-        <source>Downloading file. Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
