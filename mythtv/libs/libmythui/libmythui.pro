@@ -1,11 +1,7 @@
 include ( ../../settings.pro )
 
-QT += xml sql network opengl
-using_qtwebkit {
-    QT += widgets
-    QT += webkitwidgets
-    android: QT += androidextras
-}
+QT += xml sql network opengl widgets
+android: QT += androidextras
 
 TEMPLATE = lib
 TARGET = mythui-$$LIBVERSION
@@ -218,7 +214,6 @@ using_openmax {
 }
 
 
-DEFINES += USING_QTWEBKIT
 DEFINES += MUI_API
 
 use_hidesyms {
