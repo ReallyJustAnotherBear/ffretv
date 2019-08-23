@@ -37,10 +37,6 @@
 #include "mythuiscrollbar.h"
 #include "mythuigroup.h"
 
-#if CONFIG_QTWEBKIT
-#include "mythuiwebbrowser.h"
-#endif
-
 #include "mythuiguidegrid.h"
 #include "mythuishape.h"
 #include "mythuibuttontree.h"
@@ -397,7 +393,6 @@ void XMLParseBase::ParseChildren(const QString &filename,
                      type == "clock" ||
                      type == "progressbar" ||
                      type == "scrollbar" ||
-                     type == "webbrowser" ||
                      type == "guidegrid" ||
                      type == "shape" ||
                      type == "editbar" ||
@@ -498,10 +493,6 @@ MythUIType *XMLParseBase::ParseUIType(
         uitype = new MythUIProgressBar(parent, name);
     else if (type == "scrollbar")
         uitype = new MythUIScrollBar(parent, name);
-#if CONFIG_QTWEBKIT
-    else if (type == "webbrowser")
-        uitype = new MythUIWebBrowser(parent, name);
-#endif
     else if (type == "guidegrid")
         uitype = new MythUIGuideGrid(parent, name);
     else if (type == "shape")
@@ -606,7 +597,6 @@ MythUIType *XMLParseBase::ParseUIType(
                      info.tagName() == "clock" ||
                      info.tagName() == "progressbar" ||
                      info.tagName() == "scrollbar" ||
-                     info.tagName() == "webbrowser" ||
                      info.tagName() == "guidegrid" ||
                      info.tagName() == "shape" ||
                      info.tagName() == "editbar" ||
@@ -807,7 +797,6 @@ bool XMLParseBase::doLoad(const QString &windowname,
                          type == "clock" ||
                          type == "progressbar" ||
                          type == "scrollbar" ||
-                         type == "webbrowser" ||
                          type == "guidegrid" ||
                          type == "shape" ||
                          type == "editbar" ||
