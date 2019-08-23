@@ -2798,7 +2798,7 @@ enable taglib
 enable exiv2
 enable systemd_notify
 enable systemd_journal
-enable libbluray_external
+disable libbluray_external
 
 # mythtv paths
 dvb_path_default="${sysinclude:-$sysroot/usr/include}"
