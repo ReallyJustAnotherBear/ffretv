@@ -1,6 +1,6 @@
 ![ffretv](/ffretv.png)
 
-Fork and my personal subproject of mythtv that focuses on free tv or over the air tv support; as such, device support will be fairly limited to "Digital terrestrial television"*1).
+Fork and my personal subproject of mythtv that focuses on free tv or over the air tv support; as such, tuner type input device support will be fairly limited to "Digital terrestrial television"*1).
 
 ffretv will have limited plugins as well with no web browser such as mythbrower. QtWebkit support has been removed and anything depending on it may not work in these builds. TBD.
 
