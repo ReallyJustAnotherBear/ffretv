@@ -9,6 +9,11 @@ According to history*2) mythtv all along has been following the philosophy loyal
 I like mythtv upstream I just had the desire to have something less of an attempt at a full "convergence box", I'm going for more of the free limited version of a OTA DVR.  Seems every other company on the planet has a dvr now, so why not. I wanted this before, it just took me some time.
 
 
+What's currently going on with my branches?
+
+I still have projects that are built around 0.28 so I will continue that until I'm comfortble moving to the next release on those specfic projects. That being said, both 29.X and 31pre have been great for me in my testing. I expect to move to 29.x or just skip forward to 31pre with most all my projects soon. Keep in mind now I'm detached from upstream ast 31pre, and I will likely stay here for a bit between 0.28.X and <31pre.
+
+Once I get these repo here like I want it I will start bringing in and testing my other projects where I use mythtv as branches here. I can already tell now that I'm serious about learning the full git system, this is going to save me a huge amount of data and time in the future. It's a pretty sweet IDE like system, and yeah I know whom made it orginally. Still its a great setup and I'm glad to FINALLY BE using it better.
 
 
 
