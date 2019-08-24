@@ -19,6 +19,11 @@ MythTV Version : v29.1
 Network Protocol : 91
 Library API : 29.20180316-1
 ```
+for Master its 31-pre with Lib API:
+```
+31.20190109-1
+```
+
 *All my 0.28 projects are now DEPRECATED! While you may use them, I will rarely update them as 29.1 has a better feature set now with ffretv. A new setup introduced in 2016 allowed me to apply my "No WebKit" updated perfect. The new setup included a new method to pull progdetails instead of depending on mythbrowser. That solved a problem in the future a LOT.  Thanks to upstream makes 29.X enough reason to move
 to 29.1+. So far I dont see a downside.
 
