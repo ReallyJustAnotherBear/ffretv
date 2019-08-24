@@ -2783,7 +2783,7 @@ enable mythtranscode
 enable opengl
 enable opengles
 enable opengl_video
-disable opengl_themepainter
+enable opengl_themepainter
 enable symbol_visibility
 disable v4l1
 disable v4l2
