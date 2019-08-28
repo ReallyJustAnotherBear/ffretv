@@ -8283,6 +8283,10 @@ fi
     echo "OpenMAX Broadcom          ${openmax_broadcom-no}"
     echo "OpenMAX Bellagio          ${openmax_bellagio-no}"
   fi
+<<<<<<< HEAD
+=======
+fi
+>>>>>>> d3c0bbb99a2836ffc97ee71b157376158a64fc9d
   echo "OpenGL support            ${opengl-no}"
   echo "OpenGL video              ${opengl_video-no}"
   echo "OpenGL ThemePainter       ${opengl_themepainter-no}"
