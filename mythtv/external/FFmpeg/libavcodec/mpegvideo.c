@@ -1259,7 +1259,7 @@ int ff_mpv_frame_start(MpegEncContext *s, AVCodecContext *avctx)
             pic->reference = 3;
     }
 
-    /* Myth Change - Begin */
+    /* ffre Change - Begin */
     /* Put ATSC captions cached from parse_user_data into the correct frame */
     memcpy(pic->f->atsc_cc_buf, s->tmp_atsc_cc_buf, s->tmp_atsc_cc_len);
     pic->f->atsc_cc_len = s->tmp_atsc_cc_len;
@@ -1267,7 +1267,7 @@ int ff_mpv_frame_start(MpegEncContext *s, AVCodecContext *avctx)
     memcpy(pic->f->scte_cc_buf, s->tmp_scte_cc_buf, s->tmp_scte_cc_len);
     pic->f->scte_cc_len = s->tmp_scte_cc_len;
     s->tmp_scte_cc_len = 0;
-    /* Myth Change - End */
+    /* ffre Change - End */
 
     pic->f->coded_picture_number = s->coded_picture_number++;
 
@@ -1275,7 +1275,7 @@ int ff_mpv_frame_start(MpegEncContext *s, AVCodecContext *avctx)
         return -1;
 
     s->current_picture_ptr = pic;
-    // FIXME use only the vars from current_pic
+    // ffre use only the vars from current_pic
     s->current_picture_ptr->f->top_field_first = s->top_field_first;
     if (s->codec_id == AV_CODEC_ID_MPEG1VIDEO ||
         s->codec_id == AV_CODEC_ID_MPEG2VIDEO) {

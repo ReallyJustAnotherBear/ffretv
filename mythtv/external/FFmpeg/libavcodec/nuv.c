@@ -242,7 +242,7 @@ retry:
             return AVERROR_INVALIDDATA;
         }
         // There seem to exist two variants of this header: one starts with 'V'
-        // and 5 bytes unknown, the other matches current MythTV and is 4 bytes size,
+        // and 5 bytes unknown, the other matches current ffreTV and is 4 bytes size,
         // 1 byte header size (== 12), 1 byte version (== 0)
         if (buf[0] != 'V' && AV_RL16(&buf[4]) != 0x000c) {
             av_log(avctx, AV_LOG_ERROR, "Unknown secondary frame header (wrong codec_tag?)\n");

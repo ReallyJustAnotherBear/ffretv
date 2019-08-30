@@ -2510,7 +2510,7 @@ static void mpeg_decode_user_data(AVCodecContext *avctx,
         uint8_t dvb_cc_type = p[7];
         p += 8;
 
-        /* Predictive frame tag, but MythTV reorders predictive
+        /* Predictive frame tag, but FFreTV reorders predictive
          * frames for us along with the CC data, so we ignore it.
          */
         if (dvb_cc_type == 0x05) {
