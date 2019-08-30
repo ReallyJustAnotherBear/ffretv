@@ -1,5 +1,6 @@
 ![ffretv](/ffretv.png)
 
+```
  ldd /usr/local/bin/mythfrontend 
 	linux-vdso.so.1 =>  (0x00007ffd9aab2000)
 	libffreswscale.so.5 => /usr/local/lib/libffreswscale.so.5 (0x00007f293aa69000)
@@ -87,3 +88,4 @@
 	libk5crypto.so.3 => /lib64/libk5crypto.so.3 (0x00007f292a38f000)
 	libkrb5support.so.0 => /lib64/libkrb5support.so.0 (0x00007f292a17f000)
 	libkeyutils.so.1 => /lib64/libkeyutils.so.1 (0x00007f2929f7b000)
+```
