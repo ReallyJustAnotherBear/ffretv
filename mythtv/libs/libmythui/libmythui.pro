@@ -200,7 +200,6 @@ using_openmax {
 }
 
 
-DEFINES += USING_QTWEBKIT
 DEFINES += MUI_API
 
 use_hidesyms {
