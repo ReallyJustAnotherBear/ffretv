@@ -1,5 +1,20 @@
 ![ffretv](/ffretv.png)
 
+Buh Bye Redhat! Hello Debian.
+
+After over 20+ years using some form of RPM based desktop, its OVER. I might still use it as a server some, well see. Debian makes a pretty sweet server and always has as well. In the olden old days, debian didnt always have all that redhat has purchased and communitized. That was the past now for a long time. I can get every single thing i want from REDHAT now 
+and still use Debian. You might think you know something I dont about that statement, but I doubt it. If I want to run even a redhat kernel on debian, i can and will if I wanted, but dont. If I wanted full selinux, its on debian.
+While redhat is a stalwart, I'm totally BORED WITH IT. Debian fits the bill for the rest of my life, redhat does not.
+
+
+
+ Though not a strange to me, I've enjoyed working with debian more exclusively on the desktop.
+ So, I have switched to debian and the Debian Way.
+
+It will take me some time to make debs anywhere to the level I  learned to make RPMS, but it will be fun.
+
+
+
 Fork and my personal subproject of mythtv that focuses on free tv or over the air tv support; as such, tuner type input device support will be fairly limited to "Digital terrestrial television"*1).
 
 ffretv will have limited plugins as well with no web browser such as mythbrower. QtWebkit support has been removed and anything depending on it may not work in these builds. TBD.
