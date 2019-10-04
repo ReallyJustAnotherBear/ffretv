@@ -8,6 +8,7 @@
 #include <dirent.h>
 #include <unistd.h>
 #include <fcntl.h>
+//remove this completely
 #ifndef ANDROID
 #include <fstab.h>
 #endif
