@@ -38,7 +38,7 @@ ffretv will have limited plugins as well with no web browser such as mythbrower.
 
 
 ```
-arch support will be x86_64 and arm/aarch64. 
+arch support will be x86_64 and arm/aarch64.*note x86 32bit may still work but I'm totally ignoring it in favor of arm technology.
 
 os support will be posix-like, *development currently on linux with a watchful eye in code parts for bsd compatibility
 
