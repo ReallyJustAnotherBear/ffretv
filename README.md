@@ -24,7 +24,7 @@ LETS TALK ABOUT THAT UPSTEAM CHANNEL YOU SHALL USE, LETS TALK A LOT ABOUT IT.
 
 LETS TALK ABOUT HOW YOU SHALL TRY TO BLOCK ALL CHANNELS IF YOU DONT HAVE A UPLINK AT FIRST, DENY IT pLEASE.
 
-How far shall THE FTC shove its tentacles into our homes and up our wahoos before we say "ENOUGH, THIS NOT OPTIONAL AND OR PUBLIC."?? 
+How far shall THE FCC shove its tentacles into our homes and up our wahoos before we say "ENOUGH, THIS NOT OPTIONAL AND OR PUBLIC."?? 
 
 Have an opinion people, dont be so scared. Many people exist with jobs and opinions, it does exist, you can do this, call it balance!
 
