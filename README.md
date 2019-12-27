@@ -36,7 +36,14 @@ ffretv is a fork and my personal subproject of mythtv that focuses on free tv or
 
 ffretv will have limited plugins as well with no web browser such as mythbrower. QtWebkit support has been removed and anything depending on it may not work in these builds. TBD.
 
+
+```
 arch support will be x86_64 and arm/aarch64. 
+
+os support will be posix-like, *development currently on linux with a watchful eye in code parts for bsd compatibility
+
+libc support will be os specific, *currently only tested working with glibc/musl
+```
 
 I will reimport upstream changes as needed, with a high priority on bugs that affect this build first, with features coming later. 
 According to history*2) mythtv all along has been following the philosophy loyally of the original creator. Making a mythical convergence box into reality. I have nothing against mythtv proper at all in modern times, they do a lot. If upstream didnt exist I could have never created this lessor capable yet more free version. In the past I have had issues with them for ignoring somethings I felt important but its been 5 years since that, and most all those have been addressed since.
