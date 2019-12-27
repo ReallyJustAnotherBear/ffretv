@@ -10,7 +10,7 @@ I know how it worked, SOME GENIOUS IN OUR GOVERNMENT CONSULTED POLITICIANS AND S
 WELCOME TO GOVERMENT VENGENCE 3.0, but wait, if your not doing this for the people ATSC 3.0, then whom the HELL ARE YOU DOING THIS FOR?
 
 Seems to me you just want to bring up TV and turn it into the INTERNET, so you can TAX/ADVERTISE and MONITOR EVERYONE INVASIVLEY EVEN MORE. REAL SMART GENIUS'S , EXCEPT NOTE:
-problem ahead, some people are on to YOUR PLANS and are watching your, yes EVEN YOU IN THE FCC designing upstream channels for profit that you will sell back to Amazon and others. WHOM DO YOU THINK YOUR FOOLING BY TELLING THE MASSES THAT THIS IS THE NEXT BEST THING? LIES and PROPAGANDA FOR PROFIT IS ALL IT IS SO FAR, UNLESS YOU FULLY DISCLOSE THE ATSC 3.0 INTENTIONS OPENLY AND IN DETAIL.
+problem ahead, some people are on to YOUR PLANS and are watching your, yes EVEN YOU IN THE FCC designing upstream channels for profit to extract META-DATA, that you will sell back to Amazon and others. WHOM DO YOU THINK YOUR FOOLING BY TELLING THE MASSES THAT THIS IS THE NEXT BEST THING? LIES and PROPAGANDA FOR PROFIT IS ALL IT IS SO FAR, UNLESS YOU FULLY DISCLOSE THE ATSC 3.0 INTENTIONS OPENLY AND IN DETAIL.
 
 
 LETS TALK ABOUT THAT UPSTEAM CHANNEL YOU SHALL USE, LETS TALK A LOT ABOUT IT.
