@@ -1,3 +1,13 @@
+ATSC 3.0 has the potential to affect free over the air tv in drastic ways allegedly all in the name of "BETTER TV".
+RIGHT.  NOTE TO THOSE THAT DEVELOPTED THE UPLINK CHANNEL IN ATSC 3.0. We already have this, ITS CALLED THE INTERNET, WHAT EXACTLY DO YOUR THINK YOUR DOING NOW? HAVE YOUR CAKE AND EAT IT TOO, ONLY BEZOS GETS THAT AND YOU KNOW IT SO , STOP ALREADY!
+
+How far shall THE FTC shove its tentacles into our homes and up our wahoos before we say "ENOUGH, THIS NOT OPTIONAL AND OR PUBLIC."?? 
+
+Have an opinion people, dont be so scared. Many people exist with jobs and opinions, it does exist, you can do this, call it balance!
+
+
+
+
 ![ATSC 3.0 Opinion](/ATSC3.0_Opinion.jpg)
 
 
