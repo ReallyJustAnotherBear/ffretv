@@ -194,8 +194,7 @@ void EITHelper::AddETT(uint atsc_major, uint atsc_minor,
         {
             // Only consider EIT events from the very recent past.
             if (!it->IsStale()) {
-              completed_event = true;
-              CompleteEvent(
+                CompleteEvent(
                   atsc_major, atsc_minor, *it,
                   ett->ExtendedTextMessage().GetBestMatch(languagePreferences));
             }
