@@ -3535,7 +3535,7 @@ logfile="$pre_logfile"
 compile_type="release"
 
 # installation paths
-prefix_default="/opt/local"
+prefix_default="/usr/local"
 bindir_default='${prefix}/bin'
 datadir_default='${prefix}/share/mythtv'
 docdir_default='${prefix}/share/doc/ffmpeg'
